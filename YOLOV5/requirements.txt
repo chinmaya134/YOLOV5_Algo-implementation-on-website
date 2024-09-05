@@ -1,0 +1,9 @@
+torch
+numpy
+OpenCV-python
+Pillow
+pytesseract
+transformers
+yolov5
+streamlit
+pandas
